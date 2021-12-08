@@ -1,0 +1,266 @@
+.container{
+    height: 4600px;
+}
+.card-header{
+    height: 41px;
+    background-color: #A6672B;
+}
+.h04{
+    margin-left: 130px;
+    font-size: 14px;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    line-height: 21px;
+    color: white;
+}
+.a1{
+    margin-left: 10px;
+}
+.header{
+    height: 41px;
+    background-color: #252525;
+}
+.a2{
+    margin-left: 350px;
+}
+.section1{
+    margin-left: 0.1px;
+    width: 1110px;
+    height: 500px;
+    background-image: url("images/image_2021-11-02_19-23-45.png");
+    background-attachment: scroll;
+    background-size: 1110px;
+    background-repeat: no-repeat;
+}
+.h03{
+    color: white;
+    font-family: "Circular Std", sans-serif;
+}
+.h05{
+    height: 20px;
+    margin-top: 30px;
+    font-size: 14px;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    line-height: 21px;
+    color: white;
+}
+.h05:hover{
+    cursor: pointer;
+    border-bottom: 2px solid white;
+}
+.h51{
+    margin-top: 30px;
+    font-size: 14px;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    line-height: 21px;
+    color: white;
+}
+.h51:hover{
+    cursor: pointer;
+    border-bottom: 2px solid white;
+}
+.h01{
+    font-size: 25px;
+    color: white;
+    width: 390px;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    line-height: 39px;
+}
+.h41{
+    font-size: 15px;
+    width: 370px;
+    color: white;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    line-height: 27px;
+}
+.div1{
+margin-top: 60px;
+    margin-left: 200px;
+}
+.section2{
+    margin-top: -34px;
+}
+.h52{
+    font-size: 15px;
+    font-family: Roboto, sans-serif;
+    text-decoration: underline;
+}
+.c1{
+    margin-left: -15px;
+    background-color: #CFC7C0;
+}
+.img2{
+    margin-top: 100px;
+    width: 200px;
+    height: 240px;
+}
+.h11{
+    font-family: Roboto, sans-serif;
+    font-size: 27px;
+}
+.card1{
+    margin-top: 50px;
+}
+.h53{
+    font-size: 15px;
+    font-family: Roboto, sans-serif;
+}
+.h54{
+    font-family: Roboto, sans-serif;
+    font-size: 13px;
+    width: 370px;
+    line-height: 22px;
+}
+.btn1{
+    width: 365px;
+    height: 60px;
+}
+.h31{
+    color: whitesmoke;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+}
+.btn2{
+    width: 365px;
+    height: 60px;
+    border: 2px solid #a3a3a3;
+    background: none;
+}
+.h32{
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+}
+.section3{
+    margin-top: 100px;
+}
+.h06{
+    font-size: 13px;
+    font-family: Roboto, sans-serif;
+}
+.row2{
+    height: 420px;
+    border-bottom: 2px solid silver;
+}
+.section4{
+    margin-top: 189px;
+}
+.h12{
+    width: 300px;
+font-size: 25px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+    line-height: 39px;
+}
+.h61{
+    width: 370px;
+    font-size: 15px;
+    font-family: Roboto, sans-serif;
+    line-height: 25px;
+}
+.btn3{
+    width: 300px;
+    height: 60px;
+    border: 2px solid #a3a3a3;
+    background: none;
+}
+.img3{
+margin-left: 195px;
+}
+.t1{
+    margin-left: -100px;
+}
+.section5{
+    margin-top: 196px;
+}
+.section6{
+    margin-top: 240px;
+}
+.h13{
+    margin-top: 200px;
+    font-size: 30px;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    width: 675px;
+    line-height: 39px;
+}
+.section7{
+    background-color: #252525;
+    height: 560px;
+    margin-top: 240px;
+}
+.input1{
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 400px;
+    height: 37px;
+    background: none;
+    text-decoration: none;
+    border: 1px solid white;
+}
+.input1::placeholder{
+    color: white;
+    font-size: 20px;
+}
+.h55{
+    font-size: 13px;
+    font-family: Roboto, sans-serif;
+    margin-left: 40px;
+    color: white;
+    width: 370px;
+    font-weight: 400;
+}
+.h56{
+    font-weight: 400;
+    width: 170px;
+    height: 40px;
+    color: white;
+    font-size: 14px;
+    border-bottom: 2px solid white;
+}
+.h62{
+    font-weight: 400;
+    color: white;
+    font-size: 13px;
+}
+.t2{
+    margin-left: -80px;
+}
+.h57{
+    font-weight: 400;
+    width: 400px;
+    height: 40px;
+    color: white;
+    font-size: 14px;
+    border-bottom: 2px solid white;
+}
+.h63{
+    line-height: 25px;
+    width: 400px;
+    font-weight: 400;
+    color: white;
+    font-size: 13px;
+}
+.t3{
+    margin-left: 140px;
+}
+.t4{
+    margin-left: -80px;
+}
+.section8{
+    background-color: #252525;
+    height: 68px;
+    margin-top: 3px;
+}
+.img4{
+    margin-top: 22px;
+    margin-left: 40px;
+    width: 64px;
+    height: 19px;
+}
